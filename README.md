@@ -29,7 +29,7 @@
 🔍 Developed expertise in online business management, product sourcing
  and marketplace strategies.  
 
-💼 Founder of **Youth for Change**: Operated a consultancy company providing
+💡 Founder of **Youth for Change**: Operated a consultancy company providing
  tailored **training programs for government entities**.  
 
 ## Interests
