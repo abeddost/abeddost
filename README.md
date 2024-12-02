@@ -1,7 +1,5 @@
 # Hello, my name is Abdul Qader Dost
 
----
-
 ## About Me
 
 🎓 **Electrical and Electronics Engineer** with a passion for
@@ -39,8 +37,6 @@
 - ⚽ Big football fan. I love playing and watching football.
 
 - 🤝 I would love to Collaborate on innovative AI and ML projects.  
-
----
 
 <!-- I put "!" at the end of Let's Connect to express excitement -->
 ## Let's Connect!
