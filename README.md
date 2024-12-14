@@ -39,16 +39,19 @@
 - 🤝 I would love to Collaborate on innovative AI and ML projects.  
 
 <!-- I put "!" at the end of Let's Connect to express excitement -->
-## Let's Connect!
+## Let's Connect
 
 Feel free to reach out if you would like to collaborate on a project, share
 ideas or just talk about football and AI! 😊  
 
-<!-- I broke this linting rule because i needed to change the icon sizes -->
+<!-- I broke MD033/no-inline-html linting rule because i needed HTML to
+ adjust the icon sizes. -->
 
 <a href="https://www.instagram.com/abeddostt/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"
+   alt="Instagram" width="40">
 </a>
 <a href="mailto:abdulqaderdost@yahoo.com">
-  <img src="https://img.icons8.com/?size=100&id=9N3LO52MKuiT&format=png&color=000000" alt="Yahoo" width="40">
+  <img src="https://img.icons8.com/?size=100&id=9N3LO52MKuiT&format=png&color=000000"
+   alt="Yahoo" width="40">
 </a>
