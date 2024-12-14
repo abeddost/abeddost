@@ -38,7 +38,6 @@
 
 - 🤝 I would love to Collaborate on innovative AI and ML projects.  
 
-<!-- I put "!" at the end of Let's Connect to express excitement -->
 ## Let's Connect
 
 Feel free to reach out if you would like to collaborate on a project, share
