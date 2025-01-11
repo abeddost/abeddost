@@ -3,7 +3,7 @@
 ## About Me
 
 🎓 **Electrical and Electronics Engineer** with a passion for
- **Machine Learning** and **AI**.
+**Machine Learning** and **AI**.
 
 🌟 Balancing my professional journey with family life and lifelong learning.
 
@@ -14,12 +14,13 @@
 - 🎓 Plan to pursue Masters in Applied Artificial Intelligence to expand my knowledge.
 
 - ⚽ By combining my passion for football and technology, I aim to use AI in
-  football analytics.
+football analytics.
 
 ## My Projects
 
 ⚡ **License Plate Recognition System**: For my thesis, I have built a system to
-      detect licenses and recognize characters using ML techniques.
+detect licenses and recognize characters using ML techniques.
+
 ⚡ **AI Tutor**: An AI tutor designed to make education more engaging, helping
 students better understand challenging topics with ease and confidence.
 [Visit the project](https://dostaitutor.netlify.app)
@@ -27,13 +28,13 @@ students better understand challenging topics with ease and confidence.
 ## Professional Experience
 
 💼 Founder of **Dost Trading Ltd**, specialized in **e-commerce** through
- **Amazon FBA**.  
+**Amazon FBA**.  
 
 🔍 Developed expertise in online business management, product sourcing
- and marketplace strategies.  
+and marketplace strategies.  
 
 💡 Founder of **Youth for Change**: Operated a consultancy company providing
- tailored **training programs for government entities**.  
+tailored **training programs for government entities**.  
 
 ## Interests
 
