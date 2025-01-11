@@ -20,6 +20,9 @@
 
 ⚡ **License Plate Recognition System**: For my thesis, I have built a system to
       detect licenses and recognize characters using ML techniques.
+⚡ **AI Tutor**: An AI tutor designed to make education more engaging, helping
+students better understand challenging topics with ease and confidence.
+[Visit the project](https://dostaitutor.netlify.app)
 
 ## Professional Experience
 
