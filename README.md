@@ -21,6 +21,10 @@ football analytics.
 ⚡ **License Plate Recognition System**: For my thesis, I have built a system to
 detect licenses and recognize characters using ML techniques.
 
+⚡ **Transalyze**: A web-based language translation tool powered by Ai
+to provide accurate translations between multiple languages.
+[Visit the project](https://transalyze.netlify.app/)
+
 ⚡ **AI Tutor**: An AI tutor designed to make education more engaging, helping
 students better understand challenging topics with ease and confidence.
 [Visit the project](https://dostaitutor.netlify.app)
