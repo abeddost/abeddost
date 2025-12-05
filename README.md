@@ -176,7 +176,7 @@ Translation and analysis tool for multilingual content.
 
 ---
 
-## 📈 GitHub Journey
+## 📊 GitHub Journey
 
 <div align="center">
   
