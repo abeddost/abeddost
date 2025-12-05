@@ -60,7 +60,7 @@ const abdul = {
 
 A multi-step car valuation platform with secure data handling, instant offers, and flexible dealer handoff.
 
-[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit-238636?style=flat-square)](https://meinautopreis24.de/)
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit-238636?style=flat-square)](https://meinautopreis24.de/) [![GitHub](https://img.shields.io/badge/📦_GitHub-View_Code-161b22?style=flat-square&logo=github)](https://github.com/abeddost)
 
 `Next.js` `React` `TypeScript` `Tailwind`
 
@@ -72,6 +72,8 @@ A multi-step car valuation platform with secure data handling, instant offers, a
 **Complete business operations suite**
 
 Inventory, orders, invoices, expenses, analytics with CSV/JSON import-export for carpet businesses.
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit-238636?style=flat-square)](https://qalinsara.vercel.app/) [![GitHub](https://img.shields.io/badge/📦_GitHub-View_Code-161b22?style=flat-square&logo=github)](https://github.com/abeddost)
 
 `Next.js` `React` `TypeScript` `Tailwind`
 
@@ -86,6 +88,8 @@ Inventory, orders, invoices, expenses, analytics with CSV/JSON import-export for
 
 Vehicle listings, services, and lead capture with optimized SEO for maximum visibility.
 
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit-238636?style=flat-square)](https://hf-autos.de/) [![GitHub](https://img.shields.io/badge/📦_GitHub-View_Code-161b22?style=flat-square&logo=github)](https://github.com/abeddost)
+
 `Next.js` `React` `TypeScript` `SEO`
 
 </td>
@@ -96,6 +100,8 @@ Vehicle listings, services, and lead capture with optimized SEO for maximum visi
 **Streamlined business invoicing**
 
 Day-to-day invoicing made beautiful and efficient.
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit-238636?style=flat-square)](https://qasr-invoice-generator.vercel.app/) [![GitHub](https://img.shields.io/badge/📦_GitHub-View_Code-161b22?style=flat-square&logo=github)](https://github.com/abeddost)
 
 `Next.js` `React` `TypeScript` `Tailwind`
 
@@ -110,6 +116,8 @@ Day-to-day invoicing made beautiful and efficient.
 
 Analytics and visualization app that transforms chaos into clarity.
 
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit-238636?style=flat-square)](https://datastrikers.netlify.app/) [![GitHub](https://img.shields.io/badge/📦_GitHub-View_Code-161b22?style=flat-square&logo=github)](https://github.com/abeddost)
+
 `React` `JavaScript` `Data Viz`
 
 </td>
@@ -120,6 +128,8 @@ Analytics and visualization app that transforms chaos into clarity.
 **Breaking language barriers**
 
 Translation and analysis tool for multilingual content.
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit-238636?style=flat-square)](https://transalyze.netlify.app/) [![GitHub](https://img.shields.io/badge/📦_GitHub-View_Code-161b22?style=flat-square&logo=github)](https://github.com/abeddost)
 
 `React` `JavaScript` `Translation APIs`
 
@@ -180,12 +190,12 @@ Translation and analysis tool for multilingual content.
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=abeddost&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abeddost&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=238636&ring=58a6ff&fire=238636&currStreakLabel=58a6ff" height="165"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abeddost&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=abeddost&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=238636&ring=58a6ff&fire=238636&currStreakLabel=58a6ff)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeddost&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abeddost&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abeddost&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=238636&point=f0f6fc" width="95%"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abeddost&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=238636&point=f0f6fc&area=true)
 
 </div>
 
